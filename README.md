@@ -1,3 +1,18 @@
-# git-lesson-yunus
+# AWS-DevOps Hands-on Trainings
 
-Bu benim GitHub daki profesyonel ilk çalışmamdır.
+List of hands-on trainings within DevOps as follows;
+
+# AWS
+
+# Docker
+
+# Maven
+
+# Jenkins
+
+# Kubernetes
+
+# Terraform
+
+
+

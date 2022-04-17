@@ -12,7 +12,9 @@ List of hands-on trainings within DevOps as follows;
 
 # Kubernetes
 
-# Terraform
+# Terraform 
+
+# Linux
 
 
 
